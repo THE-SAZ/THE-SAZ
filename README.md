@@ -82,25 +82,6 @@ I believe in continuous learning and I'm always exploring new technologies to so
 
 ---
 
-## 🔥 **Featured Projects**
-
-> **⚠️ Important:** Replace `Your-Repo-1` and `Your-Repo-2` below with your actual repository names (e.g., `My-Web-App`, `Python-Tool`).  
-> If you don't have any pinned projects yet, don't worry! Just click the **"All Repositories"** button below to see everything I've built.
-
-<p align="center">
-  <a href="https://github.com/THE-SAZ/Your-Repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=THE-SAZ&repo=Your-Repo-1&theme=radical&hide_border=true&cache_seconds=86400" alt="Repo 1" />
-  </a>
-  <a href="https://github.com/THE-SAZ/Your-Repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=THE-SAZ&repo=Your-Repo-2&theme=radical&hide_border=true&cache_seconds=86400" alt="Repo 2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/THE-SAZ?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_View_All_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
