@@ -1,0 +1,272 @@
+/* استایل کلی */
+:root {
+    --primary: #2d2d2d;
+    --secondary: #6c63ff;
+    --background: #f0f2f5;
+    --card-bg: #ffffff;
+    --text: #333;
+    --text-light: #666;
+    --border: #e1e4e8;
+    --shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--background);
+    color: var(--text);
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* هدر */
+.site-header {
+    background: linear-gradient(135deg, #2d2d2d 0%, #434343 100%);
+    color: white;
+    padding: 30px 0;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    object-fit: cover;
+    background-color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #555;
+    overflow: hidden;
+}
+
+.profile-info h1 {
+    font-size: 1.8rem;
+    margin-bottom: 5px;
+}
+
+.profile-info p {
+    font-size: 1rem;
+    opacity: 0.9;
+}
+
+.contact-buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: transform 0.2s, box-shadow 0.2s;
+    color: white;
+    font-size: 0.9rem;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+.btn.telegram { background-color: #0088cc; }
+.btn.github { background-color: #333; }
+.btn.website { background-color: #ff6b35; }
+
+/* بخش‌ها */
+.section {
+    margin-bottom: 40px;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid var(--secondary);
+    display: inline-block;
+}
+
+/* فید افقی */
+.feed-container {
+    overflow-x: auto;
+    display: flex;
+    gap: 15px;
+    padding: 15px 5px;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    scrollbar-color: #888 #f0f0f0;
+}
+
+.feed-container::-webkit-scrollbar {
+    height: 8px;
+}
+
+.feed-container::-webkit-scrollbar-track {
+    background: #f0f0f0;
+    border-radius: 10px;
+}
+
+.feed-container::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+
+.post-card {
+    flex: 0 0 auto;
+    width: 320px;
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: var(--shadow);
+    scroll-snap-align: start;
+    transition: transform 0.2s;
+}
+
+.post-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+.post-date {
+    font-size: 0.8rem;
+    color: var(--text-light);
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.post-photo {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.post-text {
+    font-size: 0.95rem;
+    word-wrap: break-word;
+}
+
+.post-text a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.post-text a:hover {
+    text-decoration: underline;
+}
+
+/* ریپازیتوری‌ها */
+.repos-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.repo-card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: var(--shadow);
+    transition: transform 0.2s;
+}
+
+.repo-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+.repo-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.repo-name a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.repo-name a:hover {
+    text-decoration: underline;
+}
+
+.repo-description {
+    color: var(--text-light);
+    font-size: 0.9rem;
+    margin-bottom: 12px;
+    min-height: 3em;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.repo-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    font-size: 0.85rem;
+    color: var(--text-light);
+}
+
+.repo-meta span {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+/* فوتر */
+.site-footer {
+    background-color: #2d2d2d;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* ریسپانسیو */
+@media (max-width: 768px) {
+    .header-content {
+        flex-direction: column;
+        text-align: center;
+    }
+    .profile {
+        flex-direction: column;
+    }
+    .post-card {
+        width: 280px;
+    }
+}
