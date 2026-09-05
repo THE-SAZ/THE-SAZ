@@ -1,33 +1,38 @@
-# <img src="https://raw.githubusercontent.com/THE-SAZ/THE-SAZ/main/docs/assets/avatar.png" width="30" style="vertical-align: middle;"> THE SAZ 🔱
+<!-- README.template.md -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/THE-SAZ/THE-SAZ/main/docs/assets/avatar.png" width="120" style="border-radius:50%; border:3px solid #00f0ff; box-shadow:0 0 20px #00f0ff;" />
+  <h1 style="font-family: 'Orbitron', sans-serif; color:#00f0ff; text-shadow:0 0 10px #00f0ff;">THE SAZ</h1>
+  <p style="font-family: 'Rajdhani', sans-serif; font-size:18px; color:#8899bb;">⚡ Full-Stack Developer | Code Architect | Open Source Enthusiast</p>
 
-**توسعه‌دهنده نرم‌افزار | علاقه‌مند به متن‌باز | کاوشگر فناوری**
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/THE_SAZ)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THE-SAZ)
-[![Profile](https://img.shields.io/badge/Profile-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://zaya.io/thesaz)
+  <div style="margin: 20px 0;">
+    <a href="https://t.me/THE_SAZ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://github.com/THE-SAZ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://zaya.io/thesaz"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
+  </div>
+</div>
 
 ---
 
-## 📢 آخرین مطالب از [جوجه دولوپر](https://t.me/thesaz_projects)
+## 📢 Latest Posts from [Juje Developer](https://t.me/thesaz_projects)
 
 {{FEED}}
 
 ---
 
-## 📚 ریپازیتوری‌های من
+## 📚 My Repositories
 
 {{REPOS}}
 
 ---
 
-## 📫 راه‌های ارتباطی
+## 🌐 Connect with Me
 
-- **تلگرام:** [@THE_SAZ](https://t.me/THE_SAZ)
-- **گیت‌هاب:** [github.com/THE-SAZ](https://github.com/THE-SAZ)
-- **پروفایل:** [zaya.io/thesaz](https://zaya.io/thesaz)
+- **Telegram:** [@THE_SAZ](https://t.me/THE_SAZ)
+- **GitHub:** [THE-SAZ](https://github.com/THE-SAZ)
+- **Website:** [zaya.io/thesaz](https://zaya.io/thesaz)
 
 ---
 
-<p align="center">
-  <sub>آخرین به‌روزرسانی: {{TIMESTAMP}}</sub>
-</p>
+<div align="center">
+  <sub>Last updated: {{TIMESTAMP}}</sub>
+</div>
