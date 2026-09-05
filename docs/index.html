@@ -1,48 +1,77 @@
 <!DOCTYPE html>
-<html lang="fa" dir="rtl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>THE SAZ 🔱 | داشبورد</title>
+    <title>THE SAZ // Cyberpunk Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header class="site-header">
-        <div class="container header-content">
-            <div class="profile">
-                <img src="assets/avatar.png" alt="THE SAZ" class="avatar" id="avatar-img" onerror="this.style.display='none'">
-                <div class="profile-info">
-                    <h1>THE SAZ 🔱</h1>
-                    <p>توسعه‌دهنده نرم‌افزار</p>
+    <div class="cyber-grid"></div>
+    <div class="scanline"></div>
+    
+    <header class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="profile-block">
+                    <div class="avatar-ring">
+                        <img src="assets/avatar.png" alt="THE SAZ" class="avatar" id="avatar-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                        <div class="avatar-fallback">⚡</div>
+                    </div>
+                    <div class="profile-text">
+                        <h1 class="glitch" data-text="THE SAZ">THE SAZ</h1>
+                        <p class="subtitle">// Full-Stack Developer & Code Architect</p>
+                        <div class="social-links">
+                            <a href="https://t.me/THE_SAZ" target="_blank" class="cyber-btn telegram">📡 Telegram</a>
+                            <a href="https://github.com/THE-SAZ" target="_blank" class="cyber-btn github">💻 GitHub</a>
+                            <a href="https://zaya.io/thesaz" target="_blank" class="cyber-btn site">🌐 Website</a>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="contact-buttons">
-                <a href="https://t.me/THE_SAZ" target="_blank" class="btn telegram">تلگرام</a>
-                <a href="https://github.com/THE-SAZ" target="_blank" class="btn github">گیت‌هاب</a>
-                <a href="https://zaya.io/thesaz" target="_blank" class="btn website">پروفایل</a>
+                <div class="hero-stats">
+                    <div class="stat-box">
+                        <span class="stat-number" id="repo-count">0</span>
+                        <span class="stat-label">Repositories</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-number" id="post-count">0</span>
+                        <span class="stat-label">Latest Posts</span>
+                    </div>
+                </div>
             </div>
         </div>
     </header>
 
     <main class="container">
-        <section class="section">
-            <h2 class="section-title">📢 آخرین مطالب جوجه دولوپر</h2>
-            <div id="feed-container" class="feed-container">
-                <p>در حال بارگذاری...</p>
+        <!-- Feed Section -->
+        <section class="section feed-section">
+            <div class="section-header">
+                <h2 class="section-title">// Latest_Feeds</h2>
+                <div class="section-line"></div>
+            </div>
+            <div id="feed-container" class="feed-track">
+                <div class="loading-text">Loading feeds...</div>
             </div>
         </section>
 
-        <section class="section">
-            <h2 class="section-title">📚 ریپازیتوری‌ها</h2>
-            <div id="repos-container" class="repos-container">
-                <p>در حال بارگذاری...</p>
+        <!-- Repositories Section -->
+        <section class="section repos-section">
+            <div class="section-header">
+                <h2 class="section-title">// Code_Repositories</h2>
+                <div class="section-line"></div>
+            </div>
+            <div id="repos-container" class="repos-grid">
+                <div class="loading-text">Loading repos...</div>
             </div>
         </section>
     </main>
 
-    <footer class="site-footer">
+    <footer class="footer">
         <div class="container">
-            <p>© 2024 THE SAZ 🔱 | آخرین به‌روزرسانی: <span id="timestamp">--</span></p>
+            <p>© 2024 THE SAZ // System Status: <span class="status-online">ONLINE</span> | Last Update: <span id="timestamp">--</span></p>
         </div>
     </footer>
 
