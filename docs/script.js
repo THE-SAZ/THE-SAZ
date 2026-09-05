@@ -1,42 +1,42 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', () => {
     fetch('data.json')
-        .then(response => {
-            if (!response.ok) throw new Error('Network response was not ok');
-            return response.json();
+        .then(res => {
+            if (!res.ok) throw new Error('Failed to load data');
+            return res.json();
         })
         .then(data => {
             renderFeed(data.posts);
             renderRepos(data.repos);
-            document.getElementById('timestamp').textContent = data.updated_at || 'نامشخص';
+            document.getElementById('timestamp').textContent = data.updated_at || 'Never';
+            document.getElementById('repo-count').textContent = data.repos ? data.repos.length : 0;
+            document.getElementById('post-count').textContent = data.posts ? data.posts.length : 0;
         })
-        .catch(error => {
-            console.error('Error loading data:', error);
-            document.getElementById('feed-container').innerHTML = '<p>خطا در بارگذاری مطالب. لطفاً بعداً تلاش کنید.</p>';
-            document.getElementById('repos-container').innerHTML = '<p>خطا در بارگذاری ریپازیتوری‌ها.</p>';
+        .catch(err => {
+            console.error('Error:', err);
+            document.getElementById('feed-container').innerHTML = '<div class="loading-text">Error loading feeds</div>';
+            document.getElementById('repos-container').innerHTML = '<div class="loading-text">Error loading repos</div>';
         });
 });
 
 function renderFeed(posts) {
     const container = document.getElementById('feed-container');
     if (!posts || posts.length === 0) {
-        container.innerHTML = '<p>هیچ پستی یافت نشد.</p>';
+        container.innerHTML = '<div class="loading-text">No posts found</div>';
         return;
     }
-    
     container.innerHTML = posts.map(post => {
-        const photoHtml = post.photo_url ? `<img src="${post.photo_url}" class="post-photo" alt="Post image">` : '';
-        const postLink = post.post_url ? `<a href="${post.post_url}" target="_blank" rel="noopener">مشاهده در تلگرام</a>` : '';
+        const photo = post.photo_url ? `<img src="${post.photo_url}" class="post-photo" alt="Post">` : '';
+        const link = post.post_url ? `<a href="${post.post_url}" target="_blank" class="post-link">↗ Open in Telegram</a>` : '';
         return `
             <div class="post-card">
-                <div class="post-date">📅 ${post.date}</div>
-                ${photoHtml}
-                <div class="post-text">${post.text_html || ''}</div>
-                ${postLink ? `<div style="margin-top:10px; font-size:0.8rem;">${postLink}</div>` : ''}
+                <div class="post-date">${post.date}</div>
+                ${photo}
+                <div class="post-text">${post.text_html}</div>
+                ${link}
             </div>
         `;
     }).join('');
-    
-    // اطمینان از باز شدن لینک‌ها در تب جدید
+    // Make all links safe
     container.querySelectorAll('a').forEach(a => {
         a.target = '_blank';
         a.rel = 'noopener noreferrer';
@@ -46,10 +46,9 @@ function renderFeed(posts) {
 function renderRepos(repos) {
     const container = document.getElementById('repos-container');
     if (!repos || repos.length === 0) {
-        container.innerHTML = '<p>ریپازیتوری‌ای یافت نشد.</p>';
+        container.innerHTML = '<div class="loading-text">No repositories found</div>';
         return;
     }
-    
     container.innerHTML = repos.map(repo => `
         <div class="repo-card">
             <div class="repo-name"><a href="${repo.url}" target="_blank" rel="noopener">${repo.name}</a></div>
@@ -57,8 +56,8 @@ function renderRepos(repos) {
             <div class="repo-meta">
                 <span>⭐ ${repo.stars}</span>
                 <span>🍴 ${repo.forks}</span>
-                <span>💻 ${repo.language || 'نامشخص'}</span>
-                <span>📅 ${repo.updated || 'نامشخص'}</span>
+                <span>💻 ${repo.language || 'N/A'}</span>
+                <span>📅 ${repo.updated || 'N/A'}</span>
             </div>
         </div>
     `).join('');
