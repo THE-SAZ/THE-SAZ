@@ -1,6 +1,6 @@
 <!-- README.template.md -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/THE-SAZ/THE-SAZ/main/docs/assets/avatar.png" width="120" style="border-radius:50%; border:3px solid #00f0ff; box-shadow:0 0 20px #00f0ff;" />
+  <img src="https://raw.githubusercontent.com/THE-SAZ/THE-SAZ/main/assets/avatar.png" width="120" style="border-radius:50%; border:3px solid #00f0ff; box-shadow:0 0 20px #00f0ff;" />
   <h1 style="font-family: 'Orbitron', sans-serif; color:#00f0ff; text-shadow:0 0 10px #00f0ff;">THE SAZ</h1>
   <p style="font-family: 'Rajdhani', sans-serif; font-size:18px; color:#8899bb;">⚡ Full-Stack Developer | Code Architect | Open Source Enthusiast</p>
 
