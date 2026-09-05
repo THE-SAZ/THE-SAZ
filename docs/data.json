@@ -1,5 +1,109 @@
 {
-  "posts": [],
-  "repos": [],
-  "updated_at": "هنوز به‌روزرسانی نشده"
+  "posts": [
+    {
+      "date": "2026-08-11 04:33",
+      "text_html": "Group ID:<br/>Join to THE SAZ <i><b>🏴‍☠️</b></i> Community <br/><a href=\"https://t.me/sazgap\">https://t.me/sazgap</a>",
+      "photo_url": "",
+      "post_url": "https://t.me/thesaz_projects/89"
+    },
+    {
+      "date": "2026-08-11 10:06",
+      "text_html": "بروزرسانی <i><b>😜</b></i><br/><br/>برنامه HamedVPN-CF<br/><br/>بروزرسانی شد و بیلد 11 هم اکنون در دسترس شماست .<br/><br/><br/>تغییرات در بیلد جدید :<br/>1- روی دکمه ها گوشه های دکمه از ناحیه کلیک خارج میشد دکمه دیده میشد ولی کلیک ثبت نمی شد.<br/>2- لایه های تزئینی ثابت اسکن لاين هاله ها با پایداری عمل خواهد کرد.<br/>3- سلکتور های عمومی که ممکن بود با عناصر هسته برخورد کنند حذف شدند.<br/>4- مهمترین باگ ها و مشکلات گزارش شده ی شما بررسی و رفع شد.<br/><br/><br/>لینک گیتهاب پروژه ، جهت فورک و استارز :<br/><a href=\"https://github.com/hamedp-71/Hamedvpn-CF\">https://github.com/hamedp-71/Hamedvpn-CF</a><br/><br/><br/>..<br/><i><b>❤️</b></i> اشتراک گذاری یادتون نره <i><b>🌈</b></i><br/>‌‌<a href=\"https://t.me/hamedvpns\">@hamedvpns</a> <i><b>☑️</b></i><br/>لایک   |   Like <i><b>👍</b></i><i><b>❤️</b></i><br/>اشتراک بزارین   |   Share <i><b>⭐️</b></i>",
+      "photo_url": "",
+      "post_url": "https://t.me/thesaz_projects/90"
+    },
+    {
+      "date": "2026-08-11 10:07",
+      "text_html": "HamedVPN-CF.html",
+      "photo_url": "",
+      "post_url": "https://t.me/thesaz_projects/91"
+    },
+    {
+      "date": "2026-08-11 10:26",
+      "text_html": "HamedVPN-CF.html",
+      "photo_url": "",
+      "post_url": "https://t.me/thesaz_projects/92"
+    },
+    {
+      "date": "2026-08-12 08:30",
+      "text_html": "نسخه جدید برنامه Hamedvpn-CF با تغییراتی دور از انتظار هم اکنون در اختیار شماست <i><b>😎</b></i><br/><br/><br/>بیلد 13 هست این نسخه <i><b>✅</b></i><br/><br/>تغییرات عمده در این نسخه :<br/><i><b>✔️</b></i> تغییر پورت خروجی + لیست پورت‌های تمیز کلودفلر (443, 2053, 2083, …)<br/><i><b>✔️</b></i> پیش‌نمایش زنده تزریق (همون لحظه نتیجه رو ببین!)<br/><i><b>✔️</b></i> دکمه «بازگشت خروجی به ورودی» برای ویرایش چندمرحله‌ای<br/><i><b>✔️</b></i> طراحی حرفه‌ای دوستونه برای کامپیوتر (موبایل مثل قبل)<br/><i><b>✔️</b></i> پنل ظاهر کامل‌تر: گردی گوشه‌ها، بلور، شدت اسکن‌لاین، حالت فشرده، فونت عنوان<br/><i><b>✔️</b></i> دو تم جدید: Ice و Crimson<br/><i><b>✔️</b></i> رفع ده‌ها باگ ریز برای سالم ماندن کانفیگ‌ها<br/><br/><i><b>🛡</b></i> همه قابلیت‌های قبلی حفظ شده ؛ با تنظیمات پیش‌فرض، خروجی دقیقاً مثل قبل سالمه<br/><br/><br/>تمامی نسخه‌ها در داخل گیتهاب پروژه موجود هست ، حتی بیلد 12 که معرفی نکردیم :<br/><a href=\"https://github.com/hamedp-71/Hamedvpn-CF\">https://github.com/hamedp-71/Hamedvpn-CF</a><br/><br/><br/><br/>..<br/><i><b>❤️</b></i> <b>اشتراک‌گذاری یادتون نره!</b> <i><b>🌈</b></i><br/><br/><i><b>🆔</b></i> <a href=\"https://t.me/hamedvpns\">@hamedvpns</a> <i><b>☑️</b></i><br/>لایک   |   Like <i><b>👍</b></i><i><b>❤️</b></i><br/>اشتراک بزارین   |   Share <i><b>⭐️</b></i>",
+      "photo_url": "",
+      "post_url": "https://t.me/thesaz_projects/93"
+    }
+  ],
+  "repos": [
+    {
+      "name": "WarpMiner",
+      "url": "https://github.com/THE-SAZ/WarpMiner",
+      "description": "100% client-side Amnezia WG Config Generator !",
+      "language": "HTML",
+      "stars": 5,
+      "forks": 1,
+      "updated": "2026-08-30"
+    },
+    {
+      "name": "Prompt-Maker",
+      "url": "https://github.com/THE-SAZ/Prompt-Maker",
+      "description": "My Special Prompt Maker for AI Chat Models is HERE !",
+      "language": null,
+      "stars": 4,
+      "forks": 0,
+      "updated": "2026-09-01"
+    },
+    {
+      "name": "subprism",
+      "url": "https://github.com/THE-SAZ/subprism",
+      "description": "An advanced, ultra-fast, and 100% client-side CONFIG SUBPRISM !",
+      "language": "HTML",
+      "stars": 3,
+      "forks": 0,
+      "updated": "2026-08-21"
+    },
+    {
+      "name": "THE-SAZ",
+      "url": "https://github.com/THE-SAZ/THE-SAZ",
+      "description": "My Special README Page is HERE !",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "updated": "2026-09-05"
+    },
+    {
+      "name": "Poirot",
+      "url": "https://github.com/THE-SAZ/Poirot",
+      "description": "An advanced, ultra-fast, and 100% client-side IP Scanner",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "updated": "2026-08-25"
+    },
+    {
+      "name": "Hamedvpn-CF",
+      "url": "https://github.com/THE-SAZ/Hamedvpn-CF",
+      "description": "An excellent Cloudflare fixer config generates",
+      "language": null,
+      "stars": 1,
+      "forks": 0,
+      "updated": "2026-08-21"
+    },
+    {
+      "name": "Hamed-VPN",
+      "url": "https://github.com/THE-SAZ/Hamed-VPN",
+      "description": "feature-rich V2Ray client for Android, designed to provide secure and flexible network tunneling",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-09-02"
+    },
+    {
+      "name": "SAZ-BOMBER",
+      "url": "https://github.com/THE-SAZ/SAZ-BOMBER",
+      "description": "An Iranian SMS bomber that written with Python 🐍",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-08-27"
+    }
+  ],
+  "updated_at": "2026-09-05 19:02:51 UTC"
 }
