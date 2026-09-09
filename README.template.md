@@ -45,7 +45,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
 
-### Developed by THE SAZ 🔱
+<p align="center">
+  <a href="https://github.com/hamedp-71/THE-SAZ">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Developed+by+THE+SAZ+🔱;Freedom+is+not+a+GIFT+👍" alt="Developed by THE SAZ">
 
 ---
 
