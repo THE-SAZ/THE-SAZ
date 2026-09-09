@@ -4,6 +4,11 @@
   <h1 style="font-family: 'Orbitron', sans-serif; color:#00f0ff; text-shadow:0 0 10px #00f0ff;">ད𝐓𝐇𝐄 𝐒𝐀𝐙ཌ</h1>
   <p style="font-family: 'Rajdhani', sans-serif; font-size:18px; color:#8899bb;">⚡ Full-Stack Developer | Code Architect | Open Source Enthusiast</p>
 
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=80&section=footer" />
+</p>
+
+
   <div style="margin: 20px 0;">
     <a href="https://t.me/THE_SAZ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="https://github.com/THE-SAZ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -13,6 +18,10 @@
 
 ---
 # [ 🔱 Visit my Special Github Dashboard right NOW ! 🔱 ](https://THE-SAZ.github.io/THE-SAZ)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
 
 ## 📢 Latest Posts from [JooJeh Developer | جوجه دولوپر](https://t.me/thesaz_projects)
 
@@ -31,6 +40,11 @@
 - **Telegram:** [@THE_SAZ](https://t.me/THE_SAZ)
 - **GitHub:** [THE-SAZ](https://github.com/THE-SAZ)
 - **Website:** [zaya.io/thesaz](https://zaya.io/thesaz)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
 
 ---
 
