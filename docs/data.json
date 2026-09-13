@@ -37,54 +37,63 @@
       "url": "https://github.com/THE-SAZ/WarpMiner",
       "description": "100% client-side Amnezia WG Config Generator !",
       "language": "HTML",
-      "stars": 5,
-      "forks": 1,
-      "updated": "2026-09-05"
+      "stars": 7,
+      "forks": 5,
+      "updated": "2026-09-09"
     },
     {
       "name": "Prompt-Maker",
       "url": "https://github.com/THE-SAZ/Prompt-Maker",
       "description": "My Special Prompt Maker for AI Chat Models is HERE !",
       "language": null,
-      "stars": 4,
+      "stars": 3,
       "forks": 0,
-      "updated": "2026-09-01"
+      "updated": "2026-09-09"
     },
     {
       "name": "subprism",
       "url": "https://github.com/THE-SAZ/subprism",
       "description": "An advanced, ultra-fast, and 100% client-side CONFIG SUBPRISM !",
       "language": "HTML",
-      "stars": 3,
+      "stars": 2,
       "forks": 0,
-      "updated": "2026-08-21"
+      "updated": "2026-09-09"
     },
     {
       "name": "THE-SAZ",
       "url": "https://github.com/THE-SAZ/THE-SAZ",
       "description": "My Special README Page is HERE !",
       "language": "Python",
-      "stars": 1,
+      "stars": 0,
       "forks": 0,
-      "updated": "2026-09-05"
-    },
-    {
-      "name": "Poirot",
-      "url": "https://github.com/THE-SAZ/Poirot",
-      "description": "An advanced, ultra-fast, and 100% client-side IP Scanner",
-      "language": "HTML",
-      "stars": 1,
-      "forks": 0,
-      "updated": "2026-08-25"
+      "updated": "2026-09-09"
     },
     {
       "name": "Hamedvpn-CF",
       "url": "https://github.com/THE-SAZ/Hamedvpn-CF",
       "description": "An excellent Cloudflare fixer config generates",
       "language": null,
-      "stars": 1,
+      "stars": 0,
       "forks": 0,
-      "updated": "2026-08-21"
+      "updated": "2026-09-09"
+    },
+    {
+      "name": "Poirot",
+      "url": "https://github.com/THE-SAZ/Poirot",
+      "description": "An advanced, ultra-fast, and 100% client-side IP Scanner",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "updated": "2026-09-09"
+    },
+    {
+      "name": "SAZ-BOMBER",
+      "url": "https://github.com/THE-SAZ/SAZ-BOMBER",
+      "description": "An Iranian SMS bomber that written with Python 🐍 | DO NOT GIVE STAR TO THIS PROJECT | استار نزنید !",
+      "language": "Python",
+      "stars": 0,
+      "forks": 1,
+      "updated": "2026-09-09"
     },
     {
       "name": "Hamed-VPN",
@@ -94,16 +103,7 @@
       "stars": 0,
       "forks": 0,
       "updated": "2026-09-02"
-    },
-    {
-      "name": "SAZ-BOMBER",
-      "url": "https://github.com/THE-SAZ/SAZ-BOMBER",
-      "description": "An Iranian SMS bomber that written with Python 🐍",
-      "language": null,
-      "stars": 0,
-      "forks": 0,
-      "updated": "2026-08-27"
     }
   ],
-  "updated_at": "2026-09-06 01:28:19 UTC"
+  "updated_at": "2026-09-13 01:34:56 UTC"
 }

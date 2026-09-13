@@ -4,6 +4,11 @@
   <h1 style="font-family: 'Orbitron', sans-serif; color:#00f0ff; text-shadow:0 0 10px #00f0ff;">ད𝐓𝐇𝐄 𝐒𝐀𝐙ཌ</h1>
   <p style="font-family: 'Rajdhani', sans-serif; font-size:18px; color:#8899bb;">⚡ Full-Stack Developer | Code Architect | Open Source Enthusiast</p>
 
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=80&section=footer" />
+</p>
+
+
   <div style="margin: 20px 0;">
     <a href="https://t.me/THE_SAZ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="https://github.com/THE-SAZ"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -13,6 +18,10 @@
 
 ---
 # [ 🔱 Visit my Special Github Dashboard right NOW ! 🔱 ](https://THE-SAZ.github.io/THE-SAZ)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
 
 ## 📢 Latest Posts from [JooJeh Developer | جوجه دولوپر](https://t.me/thesaz_projects)
 
@@ -73,66 +82,77 @@
             <div style="font-weight: bold; margin-bottom: 5px;"><a href="https://github.com/THE-SAZ/WarpMiner" style="text-decoration: none; color: #0366d6;">WarpMiner</a></div>
             <div style="font-size: 12px; color: #586069; margin-bottom: 8px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">100% client-side Amnezia WG Config Generator !</div>
             <div style="font-size: 12px; color: #586069;">
-                <span style="margin-right: 10px;">⭐ 5</span>
-                <span style="margin-right: 10px;">🍴 1</span>
+                <span style="margin-right: 10px;">⭐ 7</span>
+                <span style="margin-right: 10px;">🍴 5</span>
                 <span>💻 HTML</span>
             </div>
-            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-05</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-09</div>
         </div>
         
         <div style="flex: 0 0 auto; width: 250px; margin: 5px; background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
             <div style="font-weight: bold; margin-bottom: 5px;"><a href="https://github.com/THE-SAZ/Prompt-Maker" style="text-decoration: none; color: #0366d6;">Prompt-Maker</a></div>
             <div style="font-size: 12px; color: #586069; margin-bottom: 8px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">My Special Prompt Maker for AI Chat Models is HERE !</div>
             <div style="font-size: 12px; color: #586069;">
-                <span style="margin-right: 10px;">⭐ 4</span>
+                <span style="margin-right: 10px;">⭐ 3</span>
                 <span style="margin-right: 10px;">🍴 0</span>
                 <span>💻 None</span>
             </div>
-            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-01</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-09</div>
         </div>
         
         <div style="flex: 0 0 auto; width: 250px; margin: 5px; background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
             <div style="font-weight: bold; margin-bottom: 5px;"><a href="https://github.com/THE-SAZ/subprism" style="text-decoration: none; color: #0366d6;">subprism</a></div>
             <div style="font-size: 12px; color: #586069; margin-bottom: 8px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">An advanced, ultra-fast, and 100% client-side CONFIG SUBPRISM !</div>
             <div style="font-size: 12px; color: #586069;">
-                <span style="margin-right: 10px;">⭐ 3</span>
+                <span style="margin-right: 10px;">⭐ 2</span>
                 <span style="margin-right: 10px;">🍴 0</span>
                 <span>💻 HTML</span>
             </div>
-            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-08-21</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-09</div>
         </div>
         
         <div style="flex: 0 0 auto; width: 250px; margin: 5px; background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
             <div style="font-weight: bold; margin-bottom: 5px;"><a href="https://github.com/THE-SAZ/THE-SAZ" style="text-decoration: none; color: #0366d6;">THE-SAZ</a></div>
             <div style="font-size: 12px; color: #586069; margin-bottom: 8px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">My Special README Page is HERE !</div>
             <div style="font-size: 12px; color: #586069;">
-                <span style="margin-right: 10px;">⭐ 1</span>
+                <span style="margin-right: 10px;">⭐ 0</span>
                 <span style="margin-right: 10px;">🍴 0</span>
                 <span>💻 Python</span>
             </div>
-            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-05</div>
-        </div>
-        
-        <div style="flex: 0 0 auto; width: 250px; margin: 5px; background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-            <div style="font-weight: bold; margin-bottom: 5px;"><a href="https://github.com/THE-SAZ/Poirot" style="text-decoration: none; color: #0366d6;">Poirot</a></div>
-            <div style="font-size: 12px; color: #586069; margin-bottom: 8px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">An advanced, ultra-fast, and 100% client-side IP Scanner</div>
-            <div style="font-size: 12px; color: #586069;">
-                <span style="margin-right: 10px;">⭐ 1</span>
-                <span style="margin-right: 10px;">🍴 0</span>
-                <span>💻 HTML</span>
-            </div>
-            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-08-25</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-09</div>
         </div>
         
         <div style="flex: 0 0 auto; width: 250px; margin: 5px; background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
             <div style="font-weight: bold; margin-bottom: 5px;"><a href="https://github.com/THE-SAZ/Hamedvpn-CF" style="text-decoration: none; color: #0366d6;">Hamedvpn-CF</a></div>
             <div style="font-size: 12px; color: #586069; margin-bottom: 8px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">An excellent Cloudflare fixer config generates</div>
             <div style="font-size: 12px; color: #586069;">
-                <span style="margin-right: 10px;">⭐ 1</span>
+                <span style="margin-right: 10px;">⭐ 0</span>
                 <span style="margin-right: 10px;">🍴 0</span>
                 <span>💻 None</span>
             </div>
-            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-08-21</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-09</div>
+        </div>
+        
+        <div style="flex: 0 0 auto; width: 250px; margin: 5px; background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+            <div style="font-weight: bold; margin-bottom: 5px;"><a href="https://github.com/THE-SAZ/Poirot" style="text-decoration: none; color: #0366d6;">Poirot</a></div>
+            <div style="font-size: 12px; color: #586069; margin-bottom: 8px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">An advanced, ultra-fast, and 100% client-side IP Scanner</div>
+            <div style="font-size: 12px; color: #586069;">
+                <span style="margin-right: 10px;">⭐ 0</span>
+                <span style="margin-right: 10px;">🍴 0</span>
+                <span>💻 HTML</span>
+            </div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-09</div>
+        </div>
+        
+        <div style="flex: 0 0 auto; width: 250px; margin: 5px; background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+            <div style="font-weight: bold; margin-bottom: 5px;"><a href="https://github.com/THE-SAZ/SAZ-BOMBER" style="text-decoration: none; color: #0366d6;">SAZ-BOMBER</a></div>
+            <div style="font-size: 12px; color: #586069; margin-bottom: 8px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">An Iranian SMS bomber that written with Python 🐍 | DO NOT GIVE STAR TO THIS PROJECT | استار نزنید !</div>
+            <div style="font-size: 12px; color: #586069;">
+                <span style="margin-right: 10px;">⭐ 0</span>
+                <span style="margin-right: 10px;">🍴 1</span>
+                <span>💻 Python</span>
+            </div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-09</div>
         </div>
         
         <div style="flex: 0 0 auto; width: 250px; margin: 5px; background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
@@ -146,17 +166,6 @@
             <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-02</div>
         </div>
         
-        <div style="flex: 0 0 auto; width: 250px; margin: 5px; background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-            <div style="font-weight: bold; margin-bottom: 5px;"><a href="https://github.com/THE-SAZ/SAZ-BOMBER" style="text-decoration: none; color: #0366d6;">SAZ-BOMBER</a></div>
-            <div style="font-size: 12px; color: #586069; margin-bottom: 8px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">An Iranian SMS bomber that written with Python 🐍</div>
-            <div style="font-size: 12px; color: #586069;">
-                <span style="margin-right: 10px;">⭐ 0</span>
-                <span style="margin-right: 10px;">🍴 0</span>
-                <span>💻 None</span>
-            </div>
-            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-08-27</div>
-        </div>
-        
     </div>
     
 
@@ -168,8 +177,16 @@
 - **GitHub:** [THE-SAZ](https://github.com/THE-SAZ)
 - **Website:** [zaya.io/thesaz](https://zaya.io/thesaz)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/hamedp-71/THE-SAZ">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Developed+by+THE+SAZ+🔱;Freedom+is+not+a+GIFT+👍" alt="Developed by THE SAZ">
+
 ---
 
 <div align="center">
-  <sub>Last updated: 2026-09-06 01:28:19 UTC</sub>
+  <sub>Last updated: 2026-09-13 01:34:56 UTC</sub>
 </div>
