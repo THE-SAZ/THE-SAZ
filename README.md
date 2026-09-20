@@ -82,11 +82,11 @@
             <div style="font-weight: bold; margin-bottom: 5px;"><a href="https://github.com/THE-SAZ/WarpMiner" style="text-decoration: none; color: #0366d6;">WarpMiner</a></div>
             <div style="font-size: 12px; color: #586069; margin-bottom: 8px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;">100% client-side Amnezia WG Config Generator !</div>
             <div style="font-size: 12px; color: #586069;">
-                <span style="margin-right: 10px;">⭐ 7</span>
-                <span style="margin-right: 10px;">🍴 5</span>
+                <span style="margin-right: 10px;">⭐ 12</span>
+                <span style="margin-right: 10px;">🍴 8</span>
                 <span>💻 HTML</span>
             </div>
-            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-09</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-19</div>
         </div>
         
         <div style="flex: 0 0 auto; width: 250px; margin: 5px; background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
@@ -119,7 +119,7 @@
                 <span style="margin-right: 10px;">🍴 0</span>
                 <span>💻 Python</span>
             </div>
-            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-09</div>
+            <div style="font-size: 11px; color: #aaa; margin-top: 5px;">به‌روزرسانی: 2026-09-13</div>
         </div>
         
         <div style="flex: 0 0 auto; width: 250px; margin: 5px; background: #ffffff; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
@@ -188,5 +188,5 @@
 ---
 
 <div align="center">
-  <sub>Last updated: 2026-09-13 01:34:56 UTC</sub>
+  <sub>Last updated: 2026-09-20 01:51:46 UTC</sub>
 </div>
