@@ -1,0 +1,27 @@
+{
+  "name": "THE SAZ — Cyberpunk Dashboard",
+  "short_name": "THE SAZ",
+  "description": "iOS-optimized cyberpunk dashboard by THE SAZ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#05050a",
+  "theme_color": "#05050a",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "assets/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
